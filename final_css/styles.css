@@ -51,6 +51,9 @@ button {
     margin-top: 20px;
     border: none;
 }
+.journey{
+    padding-left: 20px;
+}
 .downchini{
     background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
