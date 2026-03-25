@@ -1,0 +1,101 @@
+.world {
+    background-image: url(www.jpg);
+    height: 400px;
+    border-radius: 30px;
+}
+
+.top {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(20, 35, 43, 0.752);
+    height: 400px;
+    color: white;
+    border-radius: 30px;
+}
+
+.navbar {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding: 30px 30px 0 30px;
+
+}
+
+.home {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.login {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+
+}
+
+.world .top a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    text-align: center;
+    margin-top: 100px;
+}
+
+button {
+    color: white;
+    background-color: palevioletred;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 20px;
+    border: none;
+}
+.downchini{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.two{
+    text-align: center;
+}
+.three{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    padding: 0 250px 0 250px;
+}
+.hr{
+    list-style: none;
+    display: flex;
+    gap: 5px;
+}
+.cash{
+    color: blueviolet;
+    padding: 0 20px;
+}
+.tr{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    
+}
+.moma{
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.by{
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.open{
+    padding-left: 20px;
+}
+.thee{
+    text-align: center;
+    color: rgb(230, 137, 15);
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+}
+.thee a{
+    text-decoration: none;
+}
