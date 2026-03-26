@@ -1,0 +1,90 @@
+.digi {
+    background-image: url(digital-world.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+}
+
+.blue {
+
+    background-color: rgba(137, 43, 226, 0.558);
+    color: white;
+    padding: 30px 50px 30px 50px;
+    border-radius: 50px;
+    opacity: 0.9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text {
+    text-align: center;
+}
+
+.blue a {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.digi .blue .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+
+}
+
+.journey {
+    padding-left: 20px;
+}
+
+button {
+    background-color: rgb(226, 43, 205);
+    border-radius: 20px;
+    border: none;
+    padding: 5px;
+}
+
+.white {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.white .top {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.images {
+    display: flex;
+    gap: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+.one {
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.two {
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.threee {
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer a {
+    color: blueviolet;
+    text-decoration: none;
+}
